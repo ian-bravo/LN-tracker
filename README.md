@@ -2,4 +2,5 @@
 #### Friday 01 Dec 2023
 * 2:00: set-up application
 * 2:10: research Python tutorials
-*  
+* 2:20: set-up practice Python directory: https://github.com/ian-bravo/practice-py
+* 
