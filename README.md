@@ -7,3 +7,4 @@
 * 14:40: Follow this Python tutorial: https://www.youtube.com/watch?v=eWRfhZUzrAc (4.66 hr long)
 * 15:40: WIP. Follow aforementioned video.
 * 16:35: WIP. Follow aforementioned video.
+* 17:42: WIP. Follow aforementioned video.
