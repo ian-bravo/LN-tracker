@@ -8,3 +8,4 @@
 * 15:40: WIP. Follow aforementioned video.
 * 16:35: WIP. Follow aforementioned video.
 * 17:42: WIP. Follow aforementioned video.
+* 18:44: WIP.
