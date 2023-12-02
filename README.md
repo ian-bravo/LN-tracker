@@ -12,3 +12,4 @@
 * 19:57: Research other Python videos: https://www.youtube.com/watch?v=8ext9G7xspg also, https://www.youtube.com/watch?v=JeznW_7DlB0
 * 20:49: Go back to original Python tutorial.
 * 21:39: WIP. Follow aforementioned video.
+* 22:42: WIP. Follow aforementioned video.
