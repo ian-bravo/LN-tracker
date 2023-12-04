@@ -13,3 +13,7 @@
 * 20:49: Go back to original Python tutorial.
 * 21:39: WIP. Follow aforementioned video.
 * 22:42: WIP. Follow aforementioned video.
+
+### Sunday 03 Dec 2023
+* 15:26: research OCR: https://nanonets.com/blog/ocr-with-tesseract/
+* 16:24: write capstone-proposal
