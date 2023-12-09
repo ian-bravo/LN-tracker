@@ -23,3 +23,4 @@
 
 ### Saturday 09 Dec 2023
 * 13:07: reading documentation for creating a web API with MongoDB in ASP.NET: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-6.0&tabs=visual-studio
+* 14:28: reading on MySQL database and making schema, https://full-time-pre-october.learnhowtoprogram.com/c-and-net/database-basics/connecting-a-database-to-an-aspnet-core-app-with-mysqlconnector
