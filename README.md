@@ -20,3 +20,6 @@
 
 ### Friday 08 Dec 2023
 * 19:55: reviewing API's: https://www.youtube.com/watch?v=elMpS1Js7rc
+
+### Saturday 09 Dec 2023
+* 13:07: reading documentation for creating a web API with MongoDB in ASP.NET Core: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-8.0&tabs=visual-studio
