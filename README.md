@@ -17,3 +17,6 @@
 ### Sunday 03 Dec 2023
 * 15:26: research OCR: https://nanonets.com/blog/ocr-with-tesseract/
 * 16:24: write capstone-proposal
+
+### Friday 08 Dec 2023
+* 19:55: reviewing API's: https://www.youtube.com/watch?v=elMpS1Js7rc
