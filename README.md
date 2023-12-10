@@ -25,4 +25,5 @@
 * 13:07: reading documentation for creating a web API with MongoDB in ASP.NET: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-6.0&tabs=visual-studio
 * 14:28: reading on MySQL database and making schema, https://full-time-pre-october.learnhowtoprogram.com/c-and-net/database-basics/connecting-a-database-to-an-aspnet-core-app-with-mysqlconnector
 * 15:25: making schema
-* 16:10: made API directory: https://github.com/ian-bravo/LNAPI
+* 16:10: made API directory: https://github.com/ian-bravo/LNFreezerAPI
+* 18:04: update proposal
