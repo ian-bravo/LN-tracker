@@ -9,8 +9,7 @@
 * This application will help organize and keep track of various biological samples that are stored within semi-organized liquid nitrogen freezers.
 
 #### List the absolute minimum features the project requires to meet this purpose or goal: 
-* A UI to allow users to read/create/update/delete database entries.
-* Data is stored through a MySQL database
+* This application will allow users to read/create/update/delete database entries. The data that is generated is stored through a MySQL database utilizing a RESTful API.
 
 #### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 * HTML
