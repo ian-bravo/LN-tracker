@@ -27,3 +27,13 @@
 * 15:25: making schema
 * 16:10: made API directory: https://github.com/ian-bravo/LNFreezerAPI
 * 18:04: update proposal
+
+### Friday 15 Dec 2023
+* worked on API: https://github.com/ian-bravo/LNFreezerAPI
+
+### Saturday 16 Dec 2023
+* worked on API: https://github.com/ian-bravo/LNFreezerAPI
+
+### Sunday 17 Dec 2023
+* worked on API: https://github.com/ian-bravo/LNFreezerAPI
+
