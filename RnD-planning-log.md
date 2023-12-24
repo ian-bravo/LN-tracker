@@ -37,3 +37,17 @@
 ### Sunday 17 Dec 2023
 * worked on API: https://github.com/ian-bravo/LNFreezerAPI
 
+### Tuesday 19 Dec 2023
+* worked on Front-end Application: https://github.com/ian-bravo/ln-freezer-react
+
+### Wednesday 20 Dec 2023
+* worked on Front-end Application: https://github.com/ian-bravo/ln-freezer-react
+
+### Thursday 21 Dec 2023
+* worked on Front-end Application: https://github.com/ian-bravo/ln-freezer-react
+
+### Saturday 23 Dec 2023
+* worked on Front-end Application: https://github.com/ian-bravo/ln-freezer-react
+* worked on API: https://github.com/ian-bravo/LNFreezerAPI
+
+
