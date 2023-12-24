@@ -1,21 +1,26 @@
 # Liquid Nitrogen Freezer Organizer
+This repo contains information for both the front-end and back-end for this liquid nitrogen inventory management application.
 
-### By _**Ian Bravo**_
+#### By _**Ian Bravo**_
 
 ## Table of Contents
 * [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
+  * [API Technologies Used](#api-technologies-used)
+  * [API Description](#api-description)
+  * [API Setup and Installation Requirements](#api-setup-and-installation-requirements)
+  * [API Documentation](#api-documentation)
+* [Liquid Nitrogen Freezer Organizer Application](#liquid-nitrogen-freezer-organizer-application)
   * [Technologies Used](#technologies-used)
   * [Description](#description)
   * [Setup and Installation Requirements](#setup-and-installation-requirements)
-  * [API Documentation](#api-documentation)
-* [Liquid Nitrogen Freezer Organizer Application](#liquid-nitrogen-freezer-organizer-application)
-4. [Technologies Used](#tech-app)
+* [Known Bugs](#known-bugs)
+* [License](#license)
 
-## [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
+# [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
 
 ### _This RESTful web API is designed for a Liquid Nitrogen Freezer Organizer Application._
 
-## [Technologies Used](#technologies-used)
+## [API Technologies Used](#api-technologies-used)
 
 * _C# 10.0_
 * _.Net 6.0_
@@ -25,11 +30,11 @@
 * _Postman_
 * _Swashbuckle.AspNetCore 6.2_
 
-## [Description](#description)
+## [API Description](#api-description)
 
-This RESTful API will allow for the creation of a freezer management system. This web API has many different endpoints as shown in the API's README (https://github.com/ian-bravo/LNFreezerAPI). User Authentication and Authorization implementation is planned.
+This RESTful API will allow for the creation of a freezer management system. This web API has many different endpoints as shown in the <a href="https://github.com/ian-bravo/LNFreezerAPI">API's README</a>. User Authentication and Authorization implementation is planned.
 
-## [Setup and Installation Requirements](#setup-and-installation-requirements)
+## [API Setup and Installation Requirements](#api-setup-and-installation-requirements)
 
 Installing/Configuring MySQL:
 
@@ -40,14 +45,20 @@ Installing Postman:
 
 Installing dotnet-ef:
 1. Run the following command to globally install dotnet-ef tools which will allow you to create migrations and create databases:    
-   `$ dotnet tool install --global dotnet-ef --version 6.0.0`
+```
+$ dotnet tool install --global dotnet-ef --version 6.0.0
+```
+
 
 Cloning the API Repo:
 1. Open the terminal.
 2. Change your directory to where you would want the cloned directory.
 3. Input the following command into your terminal:  
- `$ git clone https://github.com/ian-bravo/LNFreezerAPI`
-4. Using the terminal, navigate to the production directory: "AnimalShelterApi" and create a new file called appsettings.json
+```
+$ git clone https://github.com/ian-bravo/LNFreezerAPI
+```
+
+4. Using the terminal, navigate to the production directory: "LNFreezerAPI" and create a new file called appsettings.json
 5. Within appsettings.json, put in the following code while also replacing the following values with your own values as shown in the code snippet below:
 ```json
 {
@@ -69,26 +80,28 @@ Cloning the API Repo:
 
 Generating the database:
 1. Navigate to the project's production directory "LNFreezerAPI" using the terminal.
-2. Run the following command to update the database:    
-  `$ dotnet ef database update`
+2. Run the following command to update the database:   
+```
+$ dotnet ef database update
+``` 
 
 Launch the API:
 1. Navigate to the project's production directory "LNFreezerAPI" using the terminal.
 2. Run the following command to grant access for the browser/Postman to use the API:      
-  `$ dotnet run`
+```
+$ dotnet run
+```
 
-# [API Documentation](#api-documentation)
-* Please review the README.md found in https://github.com/ian-bravo/LNFreezerAPI to view the API documentation
+## [API Documentation](#api-documentation)
+* Please review the README.md found in the <a href="https://github.com/ian-bravo/LNFreezerAPI">API's repo</a> to view the API documentation.
 
 --------------------
 
 # [Liquid Nitrogen Freezer Organizer Application](#liquid-nitrogen-freezer-organizer-application)
 
-#### By _**Ian Bravo**_
+### _This web application uses React to create a inventory system to track many unique specimens._
 
-#### _This web application uses React to create a inventory system to track many unique specimens._
-
-## [Technologies Used](#tech-app)
+## [Technologies Used](#technologies-used)
 
 * _HTML_
 * _CSS_
@@ -97,7 +110,7 @@ Launch the API:
 * _npm v8.1.2_
 * _node v16.13.1_
 
-## Description
+## [Description](#description)
 
 This web application utilizes React to manage a liquid nitrogen freezer inventory system. This application has full CRUD functionality. The user will be able to search and filter based on a number of different fields. This application is a work in progress. User Authentication and Authorization implementation is planned.
 
@@ -105,25 +118,40 @@ This web application utilizes React to manage a liquid nitrogen freezer inventor
 
 <img src="./src/img/component-diagram.png" alt="component diagram"> -->
 
-## Setup/Installation Requirements
+## [Setup and Installation Requirements](#setup-and-installation-requirements)
 
 1. Open Terminal.
 2. Change your directory to where you would want the cloned directory.
 3. Input the following command into your terminal:  
- `$ git clone https://github.com/ian-bravo/ln-freezer-react`
+```
+$ git clone https://github.com/ian-bravo/ln-freezer-react
+```
 4. Navigate to the top level of this newly cloned directory.
-5. Install all packages with `$ npm install`
-6. Build the project using webpack with `$ npm run build`
-7. Start a development server with `$ npm run start`
-8. Lint JS files in the src folder with `$ npm run lint`
+5. Install all packages with: 
+``` 
+$ npm install 
+```
+6. Build the project using webpack with: 
+```
+$ npm run build
+```
+7. Start a development server with: 
+```
+$ npm run start
+```
+8. Lint JS files in the src folder with: 
+```
+$ npm run lint
+```
 
+--------------------------------
 
-## Known Bugs
+## [Known Bugs](#known-bugs)
 
 * _Work in progress_
 
 
-## License
+## [License](#license)
 
 MIT License  
 
