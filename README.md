@@ -1,16 +1,17 @@
 ## Table of Contents
-* [Liquid Nitrogen Freezer Organizer API](#ln-freezer-api)
-  1. [Technologies Used](#api-tech)
-* [Liquid Nitrogen Freezer Organizer Application](#ln-freezer-app)
-  1. [Technologies Used](#tech-app)
+1. [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
+2. [Technologies Used](#technologies-used)
+3. [Description](#description)
+3. [Liquid Nitrogen Freezer Organizer Application](#ln-freezer-app)
+4. [Technologies Used](#tech-app)
 
-## [Liquid Nitrogen Freezer Organizer API](#ln-freezer-api)
+## [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
 
 ### By _**Ian Bravo**_
 
 ### _This RESTful web API is designed for a Liquid Nitrogen Freezer Organizer Application._
 
-## [Technologies Used](#api-tech)
+## [Technologies Used](#technologies-used)
 
 * _C# 10.0_
 * _.Net 6.0_
@@ -20,7 +21,7 @@
 * _Postman_
 * _Swashbuckle.AspNetCore 6.2_
 
-## Description
+## [Description](#description)
 
 This RESTful API will allow for the creation of a freezer management system. This web API has many different endpoints as shown in the API's README (https://github.com/ian-bravo/LNFreezerAPI). User Authentication and Authorization implementation is planned.
 
