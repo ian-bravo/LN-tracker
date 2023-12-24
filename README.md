@@ -1,5 +1,8 @@
 ## Table of Contents
 * [Liquid Nitrogen Freezer Organizer API](#ln-freezer-api)
+  1. [Technologies Used](#api-tech)
+* [Liquid Nitrogen Freezer Organizer Application](#ln-freezer-app)
+  1. [Technologies Used](#tech-app)
 
 ## [Liquid Nitrogen Freezer Organizer API](#ln-freezer-api)
 
@@ -7,7 +10,7 @@
 
 ### _This RESTful web API is designed for a Liquid Nitrogen Freezer Organizer Application._
 
-## Technologies Used
+## [Technologies Used](#api-tech)
 
 * _C# 10.0_
 * _.Net 6.0_
@@ -74,13 +77,13 @@ Launch the API:
 
 --------------------
 
-# _Liquid Nitrogen Freezer Organizer Application using React_
+# [Liquid Nitrogen Freezer Organizer Application](#ln-freezer-app)
 
 #### By _**Ian Bravo**_
 
 #### _This web application uses React to create a inventory system to track many unique specimens._
 
-## Technologies Used
+## [Technologies Used](#tech-app)
 
 * _HTML_
 * _CSS_
