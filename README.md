@@ -1,13 +1,17 @@
+# Liquid Nitrogen Freezer Organizer
+
+### By _**Ian Bravo**_
+
 ## Table of Contents
-1. [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
-2. [Technologies Used](#technologies-used)
-3. [Description](#description)
-3. [Liquid Nitrogen Freezer Organizer Application](#ln-freezer-app)
+* [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
+  * [Technologies Used](#technologies-used)
+  * [Description](#description)
+  * [Setup and Installation Requirements](#setup-and-installation-requirements)
+  * [API Documentation](#api-documentation)
+* [Liquid Nitrogen Freezer Organizer Application](#liquid-nitrogen-freezer-organizer-application)
 4. [Technologies Used](#tech-app)
 
 ## [Liquid Nitrogen Freezer Organizer API](#liquid-nitrogen-freezer-organizer-api)
-
-### By _**Ian Bravo**_
 
 ### _This RESTful web API is designed for a Liquid Nitrogen Freezer Organizer Application._
 
@@ -25,7 +29,7 @@
 
 This RESTful API will allow for the creation of a freezer management system. This web API has many different endpoints as shown in the API's README (https://github.com/ian-bravo/LNFreezerAPI). User Authentication and Authorization implementation is planned.
 
-## Setup/Installation Requirements
+## [Setup and Installation Requirements](#setup-and-installation-requirements)
 
 Installing/Configuring MySQL:
 
@@ -73,12 +77,12 @@ Launch the API:
 2. Run the following command to grant access for the browser/Postman to use the API:      
   `$ dotnet run`
 
-# API Documentation
+# [API Documentation](#api-documentation)
 * Please review the README.md found in https://github.com/ian-bravo/LNFreezerAPI to view the API documentation
 
 --------------------
 
-# [Liquid Nitrogen Freezer Organizer Application](#ln-freezer-app)
+# [Liquid Nitrogen Freezer Organizer Application](#liquid-nitrogen-freezer-organizer-application)
 
 #### By _**Ian Bravo**_
 
